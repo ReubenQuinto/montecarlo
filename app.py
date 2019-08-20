@@ -55,4 +55,4 @@ def convert():
 
 # Permit: Command line execution
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
